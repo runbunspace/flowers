@@ -11,6 +11,7 @@ h1 {	font-size:	2em;
 	text-align:	center; }
 
 #table { margin:	0, 20%;
+	padding:	20px;
 	border:		4px outset #7c809b;
 	background-color: #eaf3fc; }
 
