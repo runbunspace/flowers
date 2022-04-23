@@ -1,5 +1,6 @@
 
 body {	background-color:	#eaf3fc;
+	background-image:	url(/flowers/weavebg.png);
 	margin-left:		5%;
 	margin-right:		5%;
 	border:			4px solid #7c809b;
@@ -9,9 +10,10 @@ h1 {	font-size:	2em;
 	border-bottom:	4px dotted #7v809b;
 	text-align:	center; }
 
-#table{	margin:		0, 10%; }
+#table{	margin:		0, 10%;
+	border:		4px outset #7c809b; }
 table {	margin:		0, 20px;
-	border:		thin solid #7c809b; }
+	background-color: #eaf3fc; }
 
 th {	font-size:	1.4em;
 	border: 	thin solid #7c809b;
