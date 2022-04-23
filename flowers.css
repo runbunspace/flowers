@@ -7,12 +7,11 @@ body {	background-color:	#eaf3fc;
 	font:			medium Arial, sans-serif; }
 
 h1 {	font-size:	2em;
-	border-bottom:	4px dotted #7v809b;
+	border-bottom:	4px dotted #7c809b;
 	text-align:	center; }
 
-#table{	margin:		0, 10%;
-	border:		4px outset #7c809b; }
-table {	margin:		0, 20px;
+#table { margin:	0, 20%;
+	border:		4px outset #7c809b;
 	background-color: #eaf3fc; }
 
 th {	font-size:	1.4em;
