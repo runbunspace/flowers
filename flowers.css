@@ -5,6 +5,13 @@ body {	background-color:	#eaf3fc;
 	border:			4px solid #7c809b;
 	font:			medium Arial, sans-serif; }
 
+table {	margin:		0, 20px;
+	border:		thin solid #7c809b; }
+
+td, th {
+	border: 	thin dotted #7c809b;
+	padding:	5px; }
+
 
 
 /* fonts */
