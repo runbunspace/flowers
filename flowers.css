@@ -3,6 +3,7 @@ body {	background-color:	#eaf3fc;
 	background-image:	url(/flowers/weavebg.png);
 	margin-left:		5%;
 	margin-right:		5%;
+	padding:		20px;
 	border:			4px solid #7c809b;
 	font:			medium Arial, sans-serif; }
 
