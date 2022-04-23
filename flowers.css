@@ -6,7 +6,7 @@ body {	background-color:	#eaf3fc;
 	border:			4px solid #7c809b;
 	font:			medium Arial, sans-serif; }
 
-h1 {	font-size:	2em;
+h1 {	font-size:	3em;
 	border-bottom:	4px dotted #7c809b;
 	text-align:	center; }
 
@@ -15,11 +15,12 @@ h1 {	font-size:	2em;
 	border:		4px outset #7c809b;
 	background-color: #eaf3fc; }
 
-th {	font-size:	1.4em;
+th {	font-size:	1.6em;
 	border: 	thin solid #7c809b;
 	padding:	5px; }
 
-td {	border: 	thin dotted #7c809b;
+td {	font-size:	1.4em;
+	border: 	thin dotted #7c809b;
 	padding:	5px; }
 
 #it {	font-style:	italic; }
