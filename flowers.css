@@ -22,7 +22,8 @@ th {	font-size:	1.6em;
 
 td {	font-size:	1.4em;
 	border: 	thin dotted #7c809b;
-	padding:	5px; }
+	padding:	5px;
+        text-align:	center; }
 
 #it {	font-style:	italic; }
 
