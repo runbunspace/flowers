@@ -28,7 +28,7 @@ td {	font-size:	1.4em;
 #it {	font-style:	italic; }
 
 /* fonts */
-.fang {	font-family: "FangSong" }
-.mvboli { font-family: "MV Boli" }
+.fang {	font-family: "FangSong", Arial, sans-serif }
+.mvboli { font-family: "MV Boli", Arial, sans-serif }
 
 
